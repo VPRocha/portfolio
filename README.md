@@ -1,10 +1,10 @@
 # Portfólio
 
-Portfólio do desenvolvedor
+Portfólio fictício desenvolvido por mim para fins de estudo.
 
 ## Tarefas
 
-O controle das tarefas desse projeto serão realizado no GitHub
+O controle das tarefas desse projeto serão realizadas no GitHub
 
 ## Ícones
 
